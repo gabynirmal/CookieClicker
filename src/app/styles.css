@@ -34,6 +34,7 @@ p {
   background-color: transparent;
   cursor: pointer;
   border: none;
+  clip-path: circle(35%);
 }
 
 .upgrade-button {
